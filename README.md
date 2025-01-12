@@ -30,7 +30,11 @@ LEO is a powerful hybrid multimodal LLM that leverages a mixture of vision encod
 - `2025/01/12`: We released the paper and code
 
 ## Table of Contents
-  - [MLLMs papers for Autonomous Driving](#MLLMs-papers-for-Autonomous-Driving)
+  - [Performance Comparison with SOTA MLLMs](#Performance-Comparison-with-SOTA-MLLMs)
+  - [TODO List](#TODO-List)
+  - [Environment](#Environment)
+  - [Supervised Fine-tuning](#Supervised-Fine-tuning)
+  - [Visualization](#Visualization)
 
 ## Performance Comparison with SOTA MLLMs
 
