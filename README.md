@@ -112,7 +112,7 @@ GPUS=8 PER_DEVICE_BATCH_SIZE=1 bash scripts/leo_8b_full.sh
 
 ## License
 
-This project is released under the . Parts of this project contain code and models from other sources, which are subject to their respective licenses.
+This project is released under the [Apache 2.0 license](LICENSE). Parts of this project contain code and models from other sources, which are subject to their respective licenses.
 
 
 ## Citation
