@@ -11,7 +11,7 @@
 
 </div>
 
-
+[[arXiv](https://arxiv.org/abs/2501.06986)]
 
 
 
@@ -27,7 +27,7 @@ LEO is a powerful hybrid multimodal LLM that leverages a mixture of vision encod
 
 ## News 🚀🚀🚀
 
-- `2025/01/12`: We released the paper and code
+- `2025/01/12`: We release the [paper](https://arxiv.org/abs/2501.06986) and code
 
 ## Table of Contents
   - [Performance Comparison with SOTA MLLMs](#Performance-Comparison-with-SOTA-MLLMs)
@@ -122,7 +122,7 @@ This project is released under the [Apache 2.0 license](LICENSE). Parts of this 
 ## Citation
 If you find this project useful, please cite our work:
 ```BibTeX
-TBD
+
 ```
 
 ## Acknowledgement
