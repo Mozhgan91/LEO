@@ -69,6 +69,7 @@ LEO is a powerful hybrid multimodal LLM that leverages a mixture of vision encod
   
 ## TODO List
 
+- [ ] release evaluation code
 - [ ] release model
 - [X] release code
 - [X] release paper
@@ -122,7 +123,12 @@ This project is released under the [Apache 2.0 license](LICENSE). Parts of this 
 ## Citation
 If you find this project useful, please cite our work:
 ```BibTeX
-
+@article{azadani2025leo,
+  title={LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models},
+  author={Azadani, Mozhgan Nasr and Riddell, James and Sedwards, Sean and Czarnecki, Krzysztof},
+  journal={arXiv preprint arXiv:2501.06986},
+  year={2025}
+}
 ```
 
 ## Acknowledgement
